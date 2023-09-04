@@ -20,6 +20,7 @@ public class ChatBot extends JFrame implements ActionListener{
     JLabel label4;
 
 
+
     Box vertical = Box.createVerticalBox();
 
     Boolean typing;
